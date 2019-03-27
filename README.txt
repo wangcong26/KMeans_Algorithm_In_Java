@@ -1,5 +1,5 @@
-Homework1
-Develop and implement KMean and KMean2 algorithm to solve toy problem.
+# KMeans Algorithm project
+# To develop and implement KMean and KMean2 algorithm to solve toy problem.
 
 #1. How to run the code:
 I developed this project in the Eclipse. In this submission (after unzip), you will see two folders: 
